@@ -1,6 +1,6 @@
 <?php
 
-if (class_exists('Phockito')) Phockito::include_hamcrest();
+//if (class_exists('Phockito')) Phockito::include_hamcrest();
 
 class ExternalLinksTest extends SapphireTest {
 
